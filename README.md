@@ -43,10 +43,11 @@ To run the iso for on qemu simulation
 make run
 ```
 
-## Output
-
+# Output
 Here is the kernel output:
 
-![Kernel Output][Screenshot/BootScreen.png]
+![Kernel Boot Screen](Screenshots/BootScreen.png)
 
-![Kernel Output][Screenshot/OS.png]
+
+
+![Kernel OS Screen](Screenshots/OS.png)
