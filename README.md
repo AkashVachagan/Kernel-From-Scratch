@@ -42,12 +42,3 @@ To run the iso for on qemu simulation
 ```bash
 make run
 ```
-
-# Output
-Here is the kernel output:
-
-![Kernel Boot Screen](Screenshots/BootScreen.png)
-
-
-
-![Kernel OS Screen](Screenshots/OS.png)
